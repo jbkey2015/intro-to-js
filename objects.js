@@ -52,7 +52,7 @@ findAndLogEmployeeStatus({
     status: ''
 })
 
-findAndLogEmployeeStatus({
-    name: prompt('Enter employee name'),
-    status:''
-})
+// findAndLogEmployeeStatus({
+//     name: prompt('Enter employee name'),
+//     status:''
+// })
